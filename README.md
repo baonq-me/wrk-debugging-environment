@@ -1,6 +1,7 @@
 # WRK Debugging Environment
 
 http://czerasz.com/2015/07/19/wrk-http-benchmarking-tool-example/
+https://galaxyz.net/cach-danh-gia-do-tre-http-theo-chuan-voi-wrk-tren-ubuntu-1404.677.anews
 
 This project can help you understand [wrk's](https://github.com/wg/wrk) scripting capabilities.
 
